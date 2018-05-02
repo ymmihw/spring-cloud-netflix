@@ -34,6 +34,7 @@
  </dependencyManagement>
  <modules>
   <module>spring-cloud-gateway-introduction</module>
+  <module>spring-cloud-netflix-zuul</module>
  </modules>
  <repositories>
   <repository>
