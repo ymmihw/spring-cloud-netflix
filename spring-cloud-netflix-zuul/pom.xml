@@ -20,5 +20,6 @@
  </dependencies>
  <modules>
   <module>zuul-resource</module>
+  <module>zuul-ui</module>
  </modules>
 </project>
