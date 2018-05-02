@@ -25,6 +25,11 @@
    <artifactId>spring-boot-starter-test</artifactId>
    <scope>test</scope>
   </dependency>
+  <dependency>
+   <groupId>io.rest-assured</groupId>
+   <artifactId>rest-assured</artifactId>
+   <scope>test</scope>
+  </dependency>
  </dependencies>
  <dependencyManagement>
   <dependencies>
@@ -37,10 +42,6 @@
    </dependency>
   </dependencies>
  </dependencyManagement>
- <modules>
-  <module>spring-cloud-gateway-introduction</module>
-  <module>spring-cloud-netflix-zuul</module>
- </modules>
  <repositories>
   <repository>
    <id>spring-milestones</id>
