@@ -9,7 +9,6 @@
  </parent>
  <groupId>com.ymmihw.spring.cloud.netflix</groupId>
  <artifactId>spring-cloud-netflix-hystrix</artifactId>
- \
  <packaging>pom</packaging>
  <version>0.0.1-SNAPSHOT</version>
  <name>spring-cloud-netflix-hystrix</name>
