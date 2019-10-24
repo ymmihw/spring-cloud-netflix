@@ -1,10 +1,12 @@
 package com.ymmihw.spring.cloud.netflix.zuul.ui;
 
 import static org.junit.Assert.assertEquals;
+import org.junit.Ignore;
 import org.junit.Test;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 
+@Ignore
 public class LiveTest {
 
   @Test

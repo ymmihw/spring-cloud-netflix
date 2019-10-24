@@ -20,7 +20,7 @@
  </dependencies>
  <modules>
   <module>eureka-server</module>
-  <module>eureka-lient</module>
+  <module>eureka-client</module>
   <module>zuul-server</module>
  </modules>
 </project>

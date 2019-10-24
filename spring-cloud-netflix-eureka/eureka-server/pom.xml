@@ -5,7 +5,7 @@
  <parent>
   <groupId>com.ymmihw.spring.cloud.netflix</groupId>
   <artifactId>spring-cloud-netflix-eureka</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
  </parent>
  <groupId>com.ymmihw.spring.cloud.eureka</groupId>
  <artifactId>eureka-server</artifactId>

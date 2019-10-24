@@ -5,11 +5,10 @@
  <parent>
   <groupId>com.ymmihw.spring.cloud.netflix</groupId>
   <artifactId>spring-cloud-netflix-eureka</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
  </parent>
  <groupId>com.ymmihw.spring.cloud.netflix.eureka</groupId>
  <artifactId>eureka-client</artifactId>
- <version>0.0.1-SNAPSHOT</version>
  <name>eureka-client</name>
  <url>http://maven.apache.org</url>
  <properties>

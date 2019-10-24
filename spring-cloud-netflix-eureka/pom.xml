@@ -10,6 +10,7 @@
  <groupId>com.ymmihw.spring.cloud.netflix</groupId>
  <artifactId>spring-cloud-netflix-eureka</artifactId>
  <packaging>pom</packaging>
+ <version>0.0.2-SNAPSHOT</version>
  <name>spring-cloud-netflix-eureka</name>
  <url>http://maven.apache.org</url>
  <properties>

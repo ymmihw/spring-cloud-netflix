@@ -9,7 +9,7 @@
  </parent>
  <groupId>com.ymmihw.spring.cloud.netflix</groupId>
  <artifactId>spring-cloud-netflix-zuul</artifactId>
- <version>0.0.1-SNAPSHOT</version>
+ <version>0.0.3-SNAPSHOT</version>
  <packaging>pom</packaging>
  <name>spring-cloud-netflix-zuul</name>
  <url>http://maven.apache.org</url>
