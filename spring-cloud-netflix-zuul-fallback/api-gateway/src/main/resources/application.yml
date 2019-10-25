@@ -10,9 +10,16 @@ zuul:
       path: /weather/**
       serviceId: weather-service
       strip-prefix: false
+    other-service:
+      path: /other/**
+      serviceId: other-service
+      strip-prefix: false
 ribbon:
   eureka:
     enabled: false
 weather-service:
   ribbon:
     listOfServers: localhost:8080
+other-service:
+  ribbon:
+    listOfServers: localhost:9090
