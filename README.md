@@ -16,3 +16,4 @@ Module | Article
 spring-cloud-netflix-hystrix | [A Guide to Spring Cloud Netflix – Hystrix](http://www.baeldung.com/spring-cloud-netflix-hystrix)
 circuit-breaker-hystrix-basics | [Spring Cloud - Circuit Breaker Hystrix Basics](https://www.logicbig.com/tutorials/spring-framework/spring-cloud/spring-circuit-breaker-hystrix-basics.html)
 circuit-breaker-accessing-exception | [Spring Cloud - Hystrix Circuit Breaker, getting failure exception in fallback method](https://www.logicbig.com/tutorials/spring-framework/spring-cloud/circuit-breaker-getting-failure-exception-in-fallback.html)
+circuit-breaker-hystrix-configuration-app-properties | [Spring Cloud - Circuit Breaker, Specifying Hystrix configuration in application.properties file](https://www.logicbig.com/tutorials/spring-framework/spring-cloud/hystrix-properties-in-application-properties-file.html)

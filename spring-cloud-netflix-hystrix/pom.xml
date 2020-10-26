@@ -24,5 +24,6 @@
   <module>feign-rest-consumer</module>
   <module>circuit-breaker-hystrix-basics</module>
   <module>circuit-breaker-accessing-exception</module>
+  <module>circuit-breaker-hystrix-configuration-app-properties</module>
  </modules>
 </project>
