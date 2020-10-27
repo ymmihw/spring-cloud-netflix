@@ -8,7 +8,7 @@
   <version>0.0.1-SNAPSHOT</version>
  </parent>
  <groupId>com.ymmihw.spring.cloud.netflix</groupId>
- <artifactId>circuit-breaker-concurrent-requests</artifactId>
+ <artifactId>circuit-breaker-hystrix-concurrent-requests</artifactId>
  <version>0.0.1-SNAPSHOT</version>
  <name>circuit-breaker-concurrent-requests</name>
  <url>http://maven.apache.org</url>
