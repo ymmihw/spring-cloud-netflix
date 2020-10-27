@@ -27,5 +27,6 @@
   <module>circuit-breaker-hystrix-configuration-app-properties</module>
   <module>circuit-breaker-hystrix-concurrent-requests</module>
   <module>circuit-breaker-thread-pool-config</module>
+  <module>circuit-breaker-hystrix-event-listener</module>
  </modules>
 </project>
