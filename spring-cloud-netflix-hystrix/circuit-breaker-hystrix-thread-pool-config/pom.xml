@@ -8,7 +8,7 @@
   <version>0.0.1-SNAPSHOT</version>
  </parent>
  <groupId>com.ymmihw.spring.cloud.netflix</groupId>
- <artifactId>circuit-breaker-thread-pool-config</artifactId>
+ <artifactId>circuit-breaker-hystrix-thread-pool-config</artifactId>
  <version>0.0.1-SNAPSHOT</version>
  <name>circuit-breaker-thread-pool-config</name>
  <url>http://maven.apache.org</url>
