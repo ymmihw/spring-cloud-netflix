@@ -8,7 +8,7 @@
   <version>0.0.1-SNAPSHOT</version>
  </parent>
  <groupId>com.ymmihw.spring.cloud.netflix</groupId>
- <artifactId>circuit-breaker-accessing-exception</artifactId>
+ <artifactId>circuit-breaker-hystrix-accessing-exception</artifactId>
  <version>0.0.1-SNAPSHOT</version>
  <name>circuit-breaker-accessing-exception</name>
  <url>http://maven.apache.org</url>
