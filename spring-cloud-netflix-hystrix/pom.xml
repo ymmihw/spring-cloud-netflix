@@ -28,5 +28,6 @@
   <module>circuit-breaker-hystrix-concurrent-requests</module>
   <module>circuit-breaker-thread-pool-config</module>
   <module>circuit-breaker-hystrix-event-listener</module>
+  <module>circuit-breaker-hystrix-thread-local-context</module>
  </modules>
 </project>
