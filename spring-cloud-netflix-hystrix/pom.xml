@@ -25,7 +25,7 @@
   <module>circuit-breaker-hystrix-basics</module>
   <module>circuit-breaker-hystrix-accessing-exception</module>
   <module>circuit-breaker-hystrix-configuration-app-properties</module>
-  <module>circuit-breaker-concurrent-requests</module>
+  <module>circuit-breaker-hystrix-concurrent-requests</module>
   <module>circuit-breaker-thread-pool-config</module>
  </modules>
 </project>
